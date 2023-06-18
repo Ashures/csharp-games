@@ -1,0 +1,15 @@
+C:\Users\ashur\RiderProjects\csharp-games\bin\Debug\net7.0-windows\csharp-games.exe
+C:\Users\ashur\RiderProjects\csharp-games\bin\Debug\net7.0-windows\csharp-games.deps.json
+C:\Users\ashur\RiderProjects\csharp-games\bin\Debug\net7.0-windows\csharp-games.runtimeconfig.json
+C:\Users\ashur\RiderProjects\csharp-games\bin\Debug\net7.0-windows\csharp-games.dll
+C:\Users\ashur\RiderProjects\csharp-games\bin\Debug\net7.0-windows\csharp-games.pdb
+C:\Users\ashur\RiderProjects\csharp-games\obj\Debug\net7.0-windows\csharp-games.csproj.AssemblyReference.cache
+C:\Users\ashur\RiderProjects\csharp-games\obj\Debug\net7.0-windows\csharp-games.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashur\RiderProjects\csharp-games\obj\Debug\net7.0-windows\csharp-games.AssemblyInfoInputs.cache
+C:\Users\ashur\RiderProjects\csharp-games\obj\Debug\net7.0-windows\csharp-games.AssemblyInfo.cs
+C:\Users\ashur\RiderProjects\csharp-games\obj\Debug\net7.0-windows\csharp-games.csproj.CoreCompileInputs.cache
+C:\Users\ashur\RiderProjects\csharp-games\obj\Debug\net7.0-windows\csharp-games.dll
+C:\Users\ashur\RiderProjects\csharp-games\obj\Debug\net7.0-windows\refint\csharp-games.dll
+C:\Users\ashur\RiderProjects\csharp-games\obj\Debug\net7.0-windows\csharp-games.pdb
+C:\Users\ashur\RiderProjects\csharp-games\obj\Debug\net7.0-windows\csharp-games.genruntimeconfig.cache
+C:\Users\ashur\RiderProjects\csharp-games\obj\Debug\net7.0-windows\ref\csharp-games.dll
